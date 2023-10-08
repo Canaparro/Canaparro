@@ -12,7 +12,7 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Backend developer** that enjoys learning and sharing experiences about software development, cloud, architecture. </br> </br>
+💻 I’m a **Software developer** that enjoys learning and sharing experiences about software development, cloud, architecture. </br> </br>
 
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
